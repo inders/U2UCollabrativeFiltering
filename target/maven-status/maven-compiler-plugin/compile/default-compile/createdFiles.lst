@@ -1,0 +1,10 @@
+edu/umn/cs/recsys/dao/UserFile.class
+edu/umn/cs/recsys/dao/MOOCRatingDAO.class
+edu/umn/cs/recsys/dao/MOOCItemDAO.class
+edu/umn/cs/recsys/dao/ItemTitleDAO.class
+edu/umn/cs/recsys/uu/UUMain.class
+edu/umn/cs/recsys/dao/UserNameDAO.class
+edu/umn/cs/recsys/dao/MOOCUserDAO.class
+edu/umn/cs/recsys/uu/SimpleUserUserItemScorer.class
+edu/umn/cs/recsys/dao/TitleFile.class
+edu/umn/cs/recsys/dao/RatingFile.class
