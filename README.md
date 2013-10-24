@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Basic Requirements
 Implement scoring in this class as follows:
 
@@ -20,3 +21,9 @@ Output:
 1024,36955,2.3524,True Lies (1994)
 1024,77,4.3848,Memento (2000)
 1024,268,2.8646,Batman (1989)
+=======
+U2UCollabrativeFiltering
+========================
+
+Demonstration of building a user 2 user collaborative filtering using LensKit
+>>>>>>> 0eca1e9bff1fd48b4e150af26b8575b49bfd0950
